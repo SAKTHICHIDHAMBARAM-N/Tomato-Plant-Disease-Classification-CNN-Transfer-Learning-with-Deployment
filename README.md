@@ -1,0 +1,2 @@
+# Tomato-Plant-Disease-Classification-CNN-Transfer-Learning-with-Deployment
+ Tomato is the most popular crop in the world and in every kitchen, it is found in different forms irrespective of the cuisine. After potato and sweet potato, it is the crop which is cultivated worldwide. India ranked 2 in the production of tomato. However, the quality and quantity of tomato crop goes down due to the various kinds of diseases. so in this problem we will use deep learning technique to detect and classify tomato plant diseases.
