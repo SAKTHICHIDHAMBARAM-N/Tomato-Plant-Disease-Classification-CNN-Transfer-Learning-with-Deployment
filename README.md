@@ -11,16 +11,16 @@
  
  Dataset consists of 10 Categories of Tomato Plant diseases which are labelled as:
  
- 0 Tomato___Early_blight
- 1 Tomato___healthy
- 2 Tomato___Tomato_mosaic_virus
- 3 Tomato___Tomato_Yellow_Leaf_Curl_Virus
- 4 Tomato___Late_blight
- 5 Tomato___Target_Spot
- 6 Tomato___Septoria_leaf_spot
- 7 Tomato___Bacterial_spot
- 8 Tomato___Spider_mites Two-spotted_spider_mite
- 9 Tomato___Leaf_Mold
+ 0 - Tomato___Early_blight,
+ 1 - Tomato___healthy,
+ 2 - Tomato___Tomato_mosaic_virus,
+ 3 - Tomato___Tomato_Yellow_Leaf_Curl_Virus,
+ 4 - Tomato___Late_blight,
+ 5 - Tomato___Target_Spot,
+ 6 - Tomato___Septoria_leaf_spot,
+ 7 - Tomato___Bacterial_spot,
+ 8 - Tomato___Spider_mites Two-spotted_spider_mite,
+ 9 - Tomato___Leaf_Mold.
  
  # Models used
  Built models using transer learning methods like VGG16 and InceptionV3 with validation accuracy of 93% and 89%.
