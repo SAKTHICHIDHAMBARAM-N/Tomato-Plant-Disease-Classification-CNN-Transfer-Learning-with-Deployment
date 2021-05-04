@@ -8,6 +8,7 @@
  
  # Dataset Information
  Reference Link to download data: https://www.kaggle.com/noulam/tomato
+ 
  Dataset consists of 10 Categories of Tomato Plant diseases which are labelled as:
  
  0 Tomato___Early_blight
